@@ -7,7 +7,7 @@ most likely to explain differences between classes by coupling standard
 tests for statistical significance with additional tests encoding
 biological consistency and effect relevance.
 
-This repo is aimed to create a qimme2 plugin to get lefse analysis easily in qiime2.  Without to get to the  expoert the tsv formats table, we can convinencely finish this analysis, not offically offered, just by ZhaoJiadong!zd200572@gmail.comAny recommedadtions and efforts to cure this is welcomed!
+This repo is aimed to create a qimme2 plugin to get lefse analysis easily in qiime2.  Without to get to the  expoert the tsv formats table, we can convinencely finish this analysis, not offically offered, just by ZhaoJiadong!czd200572@gmail.com Any recommedadtions and efforts to cure this is welcomed!
 
 LEfSe is available as a [Galaxy module](http://huttenhower.org/galaxy/),
 a Conda formula, a Docker image, and included in bioBakery (VM and
