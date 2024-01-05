@@ -7,9 +7,9 @@ install_requires = ["numpy", "matplotlib", "biom-format", "rpy2"]
 setuptools.setup(
     name='lefse',
     version='1.1.2',
-    author='Nicola Segata',
-    author_email='nicola.segata@unitn.it',
-    url='http://github.com/SegataLab/lefse/',
+    author='Nicola Segata & Jiadong Zhao',
+    author_email='zd200572@gmail.com & nicola.segata@unitn.it',
+    url='http://github.com/zd200572/q2-lefse/',
     packages = ['lefse', 'lefsebiom'],
     long_description_content_type='text/markdown',
     long_description=open('README.md').read(),
